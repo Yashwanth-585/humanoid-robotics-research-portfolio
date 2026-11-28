@@ -10,7 +10,7 @@ This repository summarises project objectives, technical approaches, individual 
 |---|---|---|
 | [Reinforcement-learning stair climbing](projects/stair-climbing/README.md) | Blind locomotion policy development and simulation-to-real evaluation on Unitree G1 | Physical stair-climbing demonstration completed; limitations documented |
 | [G1 bottle pickup and handover](projects/bottle-pickup-handover/README.md) | RGB-D bottle perception, 3D localisation, right-arm planning, dexterous grasping and tug-triggered handover | Integrated physical pick-and-lift demonstrated; handover reported working; scope and limitations documented |
-| Autonomous navigation and mapping | LiDAR-based mapping and localisation on Unitree G1 | Documentation in progress |
+| [LiDAR mapping and localisation](projects/lidar-mapping-localisation/README.md) | Livox Mid-360, FAST-LIO, ICP-based global localisation and waypoint-planning groundwork | Mapping and localisation demonstrated; autonomous waypoint walking not completed |
 
 ## Attribution and disclosure
 
