@@ -6,9 +6,6 @@ This directory contains individual, high-level case studies. Each project distin
 
 - [Reinforcement-learning stair climbing](stair-climbing/README.md) — blind locomotion policy development and physical stair-climbing demonstration on Unitree G1.
 - [G1 bottle pickup and handover](bottle-pickup-handover/README.md) — RGB-D perception, 3D localisation, right-arm kinematic planning, grasping, lifting and tug-triggered handover.
-
-## Documented project
-
 - [LiDAR mapping and localisation](lidar-mapping-localisation/README.md) — Mid-360 mapping, FAST-LIO, ICP-based localisation and waypoint route construction. Autonomous waypoint walking was not completed.
 
 ## Documentation in progress
